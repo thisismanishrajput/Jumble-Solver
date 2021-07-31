@@ -16,7 +16,7 @@ This is a Simple Jumble Solver game which I have created using Python. In this p
 4️⃣ Quite game
 ## Authors
 
-- Instagram [@kal_kal_programmer](https://www.instagram.com/kal_kal_programmer)
+- Instagram [@kal_ka_programmer](https://www.instagram.com/kal_ka_programmer)
 - Twitter [@KalKaProgrammer](https://www.twitter.com/KalKaProgrammer)
 
   
